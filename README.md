@@ -1,2 +1,1 @@
-**Data Visualization and Exploratory Data Analysis
-**
+Data Visualization and Exploratory Data Analysis
